@@ -9,7 +9,7 @@
     "@types/date-fns": "^2.6.0",
     "axios": "^0.18.0",
     "date-fns": "^2.0.0-alpha.27",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "jwt-decode": "^2.2.0",
     "material-ui-pickers": "^2.2.4",
     "moment": "^2.24.0",
